@@ -1,0 +1,15 @@
+#table_btn {
+    margin-top: 50px;
+    width: 1300px;
+    margin-left: 100px;
+  }
+  
+  #table_btn td {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .btn {
+    width: 400px;
+    height: 50px;
+  }
